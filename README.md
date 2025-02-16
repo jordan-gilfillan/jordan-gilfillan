@@ -1,29 +1,35 @@
-# Hi, I'm Jordan Gilfillan 👋
+Hi, I’m Jordan Gilfillan 👋
 
-I'm a **software engineer**, **AI researcher**, and **entrepreneur** building the future of **Personality Models** at [Linear AI](https://linearai.me). With a passion for **augmented intelligence**, I explore how AI can enhance human expression, creativity, and decision-making rather than replace it.
+AI Architect | Open-Source Advocate | Problem Solver
 
-## 🔥 What I'm Working On
+I build practical, human-centered AI systems that enhance decision-making, creativity, and automation—not just another chatbot. I specialize in fine-tuning AI for real-world use cases and consulting on AI-driven workflows that actually work.
 
-- **[Linear AI](https://linearai.me)** – A platform for deeply personalized AI models that adapt, evolve, and interact meaningfully.
-- **Open-Source AI Research** – Exploring ways to fine-tune AI to better capture human personality and interaction patterns.
-- **Human-AI Synergy** – Designing AI-driven workflows that complement human thinking, not override it.
+🚀 What I Do
 
-## ⚡ Skills & Interests
+🔹 Linear AI – Open-source AI for personal augmentation, not gimmicks.
+🔹 AI Consulting – Need to fine-tune an AI model or integrate AI into your product? Let’s talk.
+🔹 AI for Creators & Thinkers – Optimizing AI for music, language, and decision-making.
+🔹 Open-Source AI Research – Building the tools that make AI accessible, explainable, and actually useful.
 
-- 🧠 **AI & ML** – Fine-tuning, embeddings, and natural language processing.
-- 🏗️ **Full-Stack Development** – Python, Node.js, and cloud architecture.
-- 🎸 **Creative Tech** – Music AI, generative art, and experimental interfaces.
-- 🌲 **Off-Grid Living** – Building my own off-grid house in Siskiyou County.
+⚡ Expertise
 
-## 🌍 My Philosophy
+🧠 AI & ML – LLM fine-tuning, embeddings, real-time inference, and self-hosted AI.
+🏗️ Full-Stack AI Systems – Python, Node.js, cloud infra, and AI deployment strategies.
+🎸 Creative AI – Generative models for music, art, and personal augmentation.
+🛠️ Practical AI Deployment – Open-source tools, self-hosting, and automation workflows.
 
-I believe in **empowering people through AI**, making technology work for humans instead of the other way around. I focus on **open, ethical AI** that fosters creativity, collaboration, and deeper self-awareness.
+💡 No-Nonsense AI Consulting
 
-## 📫 Get in Touch
+I help businesses, developers, and researchers actually use AI—not just hype it.
+🔹 Fine-tuning AI models for business automation & personal productivity
+🔹 Embedding AI into real-world applications
+🔹 Open-source strategy & self-hosted AI solutions
 
-- ✉️ Email: [jordan.gilfillan@linearai.me](mailto:jordan.gilfillan@linearai.me)
-- 🖥️ Website: [linearai.me](https://linearai.me)
-- 📂 GitHub: [github.com/jordan-gilfillan](https://github.com/jordan-gilfillan)
+💰 Need help deploying, fine-tuning, or integrating AI? I offer direct consulting.
 
-🚀 Always learning, always building!
+📫 Get in Touch
+	•	✉️ Email: jordan.gilfillan@linearai.me
+	•	🖥️ Website: linearai.me
+	•	📂 GitHub: github.com/jordan-gilfillan
 
+🚀 No fluff. No gimmicks. Just AI that works.
