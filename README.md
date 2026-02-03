@@ -1,35 +1,83 @@
-Hi, I’m Jordan Gilfillan 👋
+# Hi, I’m Jordan Gilfillan 👋
 
-AI Architect | Open-Source Advocate | Problem Solver
+**ML/AI Engineer focused on privacy-aware RAG, embeddings pipelines, and evaluation-driven systems.**  
+I build “product-shaped” AI: ingestion → representation → retrieval → guarded generation → tests.
 
-I build practical, human-centered AI systems that enhance decision-making, creativity, and automation—not just another chatbot. I specialize in fine-tuning AI for real-world use cases and consulting on AI-driven workflows that actually work.
+---
 
-🚀 What I Do
+## What I’m building now
 
-🔹 Linear AI – Open-source AI for personal augmentation, not gimmicks.
-🔹 AI Consulting – Need to fine-tune an AI model or integrate AI into your product? Let’s talk.
-🔹 AI for Creators & Thinkers – Optimizing AI for music, language, and decision-making.
-🔹 Open-Source AI Research – Building the tools that make AI accessible, explainable, and actually useful.
+### **Eigenfield** — a privacy-gated personal knowledge + “mirror” stack
+A portfolio suite of real systems for working with unstructured personal data (journals, notes, logs) responsibly.
 
-⚡ Expertise
+**Core themes**
+- **Deterministic ingestion**: stable chunk IDs, reproducible transforms
+- **Embeddings + retrieval**: pragmatic vector search patterns for real-world text
+- **Privacy gates**: owner/friend/public modes with explicit access rules
+- **Traceability**: citations + “why this answer” style traces (retrieval counts, timing, gate decisions)
+- **Evaluation harnesses**: regression tests for behavior, not vibes
 
-🧠 AI & ML – LLM fine-tuning, embeddings, real-time inference, and self-hosted AI.
-🏗️ Full-Stack AI Systems – Python, Node.js, cloud infra, and AI deployment strategies.
-🎸 Creative AI – Generative models for music, art, and personal augmentation.
-🛠️ Practical AI Deployment – Open-source tools, self-hosting, and automation workflows.
+---
 
-💡 No-Nonsense AI Consulting
+## Projects
 
-I help businesses, developers, and researchers actually use AI—not just hype it.
-🔹 Fine-tuning AI models for business automation & personal productivity
-🔹 Embedding AI into real-world applications
-🔹 Open-source strategy & self-hosted AI solutions
+### **Journal Distill** — structured ingestion for messy conversation/journal logs
+Turns raw exports into a clean, queryable dataset for downstream use (RAG, analytics, visualization).
 
-💰 Need help deploying, fine-tuning, or integrating AI? I offer direct consulting.
+**What it includes**
+- Chunking + metadata normalization
+- Stable IDs and reproducibility guarantees
+- Classification scaffolding + test-driven evolution
+- Export formats designed for reuse (RAG, embeddings viz, analytics)
 
-📫 Get in Touch
-	•	✉️ Email: jordan.gilfillan@linearai.me
-	•	🖥️ Website: linearai.me
-	•	📂 GitHub: github.com/jordan-gilfillan
+> Repo: (link)  
+> Demo/Docs: (link)
 
-🚀 No fluff. No gimmicks. Just AI that works.
+---
+
+### **Mirror** — QA/RAG over personal text with privacy and citations
+A minimal, credible RAG app: retrieval you can inspect, answers you can verify, and permissions you can trust.
+
+**What it includes**
+- Retrieval with citations
+- Privacy gating (explicit access decisions)
+- Trace panel / debug UX (how the answer was produced)
+
+> Repo: (link)  
+> Demo: (link)
+
+---
+
+## How I work (the “spec-first” part)
+Before I optimize anything, I write:
+1) **Bottleneck** — what’s actually limiting outcomes  
+2) **Spec** — behavior that can be tested  
+3) **Lever** — the smallest change that moves the bottleneck
+
+I aim for:
+- **Invariants** (what must remain true)
+- **Acceptance criteria** (what “done” means)
+- **Not-doing list** (scope control)
+
+---
+
+## What I’m good at
+- **Embeddings + retrieval**: chunking strategies, vector search patterns, hybrid retrieval when needed
+- **RAG that ships**: guardrails, citations, traceability, evaluation harnesses
+- **Pragmatic systems**: TypeScript/Node + Python glue, clean APIs, CI, tests, reproducibility
+- **Privacy-minded design**: explicit access gates and auditable behavior
+
+---
+
+## Open to roles
+I’m targeting **ML/AI engineering** and **applied AI** roles where shipping reliable systems matters:
+- RAG / retrieval / embeddings
+- data pipelines for unstructured text
+- evaluation + quality harnesses
+- privacy-aware product engineering
+
+---
+
+## Contact
+- Email: **gruvydude64@gmail.com**
+- GitHub: **github.com/jordan-gilfillan**
