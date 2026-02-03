@@ -30,9 +30,6 @@ Turns raw exports into a clean, queryable dataset for downstream use (RAG, analy
 - Classification scaffolding + test-driven evolution
 - Export formats designed for reuse (RAG, embeddings viz, analytics)
 
-> Repo: (link)  
-> Demo/Docs: (link)
-
 ---
 
 ### **Mirror** — QA/RAG over personal text with privacy and citations
@@ -42,9 +39,6 @@ A minimal, credible RAG app: retrieval you can inspect, answers you can verify, 
 - Retrieval with citations
 - Privacy gating (explicit access decisions)
 - Trace panel / debug UX (how the answer was produced)
-
-> Repo: (link)  
-> Demo: (link)
 
 ---
 
